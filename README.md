@@ -118,7 +118,21 @@ and transformation** to **analysis, visualization, and business insights**.
 </div>
 
 ---
+---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamadaa-hmed/hamadaa-hmed/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamadaa-hmed/hamadaa-hmed/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/hamadaa-hmed/hamadaa-hmed/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
 ## 📈 My Data Analytics Journey
 
 ```text
