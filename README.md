@@ -62,4 +62,96 @@ and transformation** to **analysis, visualization, and business insights**.
 
 ### 🎯 Core Skills
 
-`Data Cleaning` • `Data Transformation` • `EDA` • `Data
+`Data Cleaning` • `Data Transformation` • `EDA` • `Data Visualization`
+
+`Dashboard Development` • `DAX` • `Business Intelligence` • `Data Storytelling`
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><strong>📗 Excel Projects</strong></summary>
+
+<br>
+
+- 📊 [1.0 — Sales Performance Analysis](https://github.com/hamadaa-hmed/1.0-Sales-Performance-Excel)
+- 📊 [1.1 — Purchasing Analytics](https://github.com/hamadaa-hmed/1.1-Purchasing-Analytics-Excel)
+- 📊 [1.2 — Sales Analysis](https://github.com/hamadaa-hmed/1.2-Sales-Analysis-Excel)
+- 📊 [1.3 — Data Analysis](https://github.com/hamadaa-hmed/1.3-Data-Analysis-Excel)
+- 📊 [1.4 — Data Analytics](https://github.com/hamadaa-hmed/1.4-Data-Analytics-Excel)
+- 📊 [1.5 — Nakha Restaurant](https://github.com/hamadaa-hmed/1.5-Nakha-Resturant-Excel)
+- 📊 [1.6 — Superstore Analysis](https://github.com/hamadaa-hmed/1.6-Superstore-Analysis-Excel)
+- 📊 [1.7 — SR Analysis](https://github.com/hamadaa-hmed/1.7-SR-Analysit-Excel)
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>📊 Power BI Projects</strong></summary>
+
+<br>
+
+- 🍔 [2.0 — Alfozan Food 1](https://github.com/hamadaa-hmed/2.0-Alfozan-Food1-PowerBI)
+- 🍔 [2.1 — Alfozan Food 2](https://github.com/hamadaa-hmed/2.1-Alfozan-Food2-PowerBI)
+- 🦠 [2.2 — COVID-19](https://github.com/hamadaa-hmed/2.2-COVID19-PowerBI)
+- 🏛️ [2.3 — Grand Egyptian Museum — GEM](https://github.com/hamadaa-hmed/2.3-GEM-PowerBI)
+- 🏭 [2.4 — Hondyia](https://github.com/hamadaa-hmed/2.4-Hondyia-PowerBI)
+- 🧾 [2.5 — Invoice](https://github.com/hamadaa-hmed/2.5-Invoice-PowerBI)
+- 🧩 [2.6 — Data Modeling • DAX • TMDL](https://github.com/hamadaa-hmed/2.6-Data-Modeling-DAX-Tmdl-PowerBI)
+- 🔑 [2.7 — Composite Key • Merge • Index Column](https://github.com/hamadaa-hmed/2.7-CompositeKey-MergeIndexColumn-PowerBI)
+- 🔄 [2.8 — Incremental Refresh • Parameters • Semantic Model • RLS](https://github.com/hamadaa-hmed/2.8-IncrementalRefresh-Parameters-SemanticModel-RLS-PowerBI)
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>🐍 Python & SQL Projects</strong></summary>
+
+<br>
+
+- 🔍 Exploratory Data Analysis
+- 🧹 Data Cleaning
+- 📊 Data Manipulation
+- 🗄️ SQL Analysis
+- 💡 Business Insights
+
+</details>
+
+<br>
+
+👉 [View All My Repositories](https://github.com/hamadaa-hmed?tab=repositories)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamadaa-hmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamadaa-hmed&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=hamadaa-hmed&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/hamadaa-hmed/hamadaa-hmed/output/github-contribution-grid-snake.svg" />
+
+</div>
