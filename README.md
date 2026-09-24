@@ -70,30 +70,48 @@ and transformation** to **analysis, visualization, and business insights**.
 
 ## 🚀 Featured Projects
 
-### 📗 Excel
+<details>
+<summary><strong>📗 Excel Projects</strong></summary>
 
-- 📊 Sales Performance Analysis
-- 📈 Interactive Excel Dashboards
-- 🧹 Data Cleaning & Transformation
-- 💡 Business Insights
+<br>
 
-### 📊 Power BI
+- 📊 [Sales Performance Analysis](https://github.com/hamadaa-hmed/1.0-Sales-Performance-Excel)
+- 📊 [Superstore Analysis](https://github.com/hamadaa-hmed/1.6-Superstore-Analysis-Excel)
+- 📊 [SR Analysis](https://github.com/hamadaa-hmed/1.7-SR-Analysit-Excel)
 
-- 📈 Interactive Dashboards
-- 🔢 KPIs & Business Metrics
-- 🧩 Data Modeling
-- ⚡ DAX
-- 💡 Business Insights
+</details>
 
-### 🐍 Python & SQL
+<br>
+
+<details>
+<summary><strong>📊 Power BI Projects</strong></summary>
+
+<br>
+
+- 🍔 [Alfozan Food Power BI](https://github.com/hamadaa-hmed/2.0-Alfozan-Food1-PowerBI)
+- 🏛️ [Grand Egyptian Museum — GEM](https://github.com/hamadaa-hmed/2.3-GEM-PowerBI)
+- 🏭 [Hondyia Power BI](https://github.com/hamadaa-hmed/2.4-Hondyia-PowerBI)
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>🐍 Python & SQL Projects</strong></summary>
+
+<br>
 
 - 🔍 Exploratory Data Analysis
 - 🧹 Data Cleaning
 - 📊 Data Manipulation
 - 🗄️ SQL Analysis
-- 💡 Extracting Business Insights
+- 💡 Business Insights
 
-👉 Check out my repositories to explore my projects.
+</details>
+
+<br>
+
+👉 [View All My Repositories](https://github.com/hamadaa-hmed?tab=repositories)
 
 ---
 
@@ -113,41 +131,4 @@ and transformation** to **analysis, visualization, and business insights**.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=hamadaa-hmed&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamadaa-hmed/hamadaa-hmed/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamadaa-hmed/hamadaa-hmed/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/hamadaa-hmed/hamadaa-hmed/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-## 📈 My Data Analytics Journey
-
-```text
-Raw Data
-   ↓
-Data Cleaning
-   ↓
-Data Transformation
-   ↓
-Exploratory Data Analysis
-   ↓
-Data Visualization
-   ↓
-Dashboard Development
-   ↓
-Business Insights
-   ↓
-Data-Driven Decisions
+<img src="https://streak-stats.demolab.com?user=hamadaa-hmed&theme=tokyonight
