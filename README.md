@@ -83,7 +83,7 @@ and transformation** to **analysis, visualization, and business insights**.
 - 📊 [1.5 — Nakha Restaurant](https://github.com/hamadaa-hmed/1.5-Nakha-Resturant-Excel)
 - 📊 [1.6 — Superstore Analysis](https://github.com/hamadaa-hmed/1.6-Superstore-Analysis-Excel)
 - 📊 [1.7 — SR Analysis](https://github.com/hamadaa-hmed/1.7-SR-Analysit-Excel)
-- 📊 [1.8- Global Fashion](https://github.com/hamadaa-hmed/1.8-Global-Fashion-Excel)
+- 📊 [1.8 -Global Fashion Retail](https://github.com/hamadaa-hmed/1.8-Global-Fashion-Excel)
 </details>
 
 <br>
