@@ -102,7 +102,7 @@ and transformation** to **analysis, visualization, and business insights**.
 - 🧩 [2.6 — Data Modeling • DAX • TMDL](https://github.com/hamadaa-hmed/2.6-Data-Modeling-DAX-Tmdl-PowerBI)
 - 🔑 [2.7 — Composite Key • Merge • Index Column](https://github.com/hamadaa-hmed/2.7-CompositeKey-MergeIndexColumn-PowerBI)
 - 🔄 [2.8 — Incremental Refresh • Parameters • Semantic Model • RLS](https://github.com/hamadaa-hmed/2.8-IncrementalRefresh-Parameters-SemanticModel-RLS-PowerBI)
-
+- 🏠 [2.9 — Real State • Nawy ] (https://github.com/hamadaa-hmed/2.9-Nawy-Real-State-PoweBI) 
 </details>
 
 <br>
